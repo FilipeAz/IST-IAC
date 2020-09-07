@@ -6,6 +6,6 @@
 
 [LEIC-A](https://fenix.tecnico.ulisboa.pt/cursos/leic-a)
 
-[FP](https://fenix.tecnico.ulisboa.pt/disciplinas/IAC45/2014-2015/1-semestre)
+[IAC](https://fenix.tecnico.ulisboa.pt/disciplinas/IAC45/2014-2015/1-semestre)
 
 Grade - 15/20
